@@ -1,0 +1,9 @@
+{
+    "name": "joshua/LexerTesting",
+    "require": {
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
